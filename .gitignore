@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# C / Code::Blocks build artifacts
+bin/
+obj/
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.depend
+*.layout
